@@ -2,16 +2,16 @@
 #include <stdlib.h>
 #include <time.h>
 
-long int fatorial(long int n){
+int fatorial(int num){
     
-    long int fat=1;
+    int fat=1;
     double tempo;
     clock_t t0,t1;
     
     t0=clock();
-    for( ; n>1; n--){
+    for( ; num>1; num--){
         
-        fat*=n;
+        fat*=num;
         
     }
     t1=clock();
@@ -26,14 +26,14 @@ long int fatorial(long int n){
 int main(void) {
 	// your code goes here
 	
-	long int num, fatr;
+	int fatr, num;
 	
-	printf("Digite o valor a ser fatoriado:\n");
-	scanf("%li",&num);
+	printf("Digite o valor a ser fatorado:\n");
+	scanf("%d",&num);
 	
 	fatr = fatorial(num);
 	
-	printf("O fatorial de %li é %li", num, fatr);
+	printf("O fatorial de %d é %d", num, fatr);
 	
 	return 0;
 }
