@@ -5,7 +5,6 @@
 
 //  ----- Dados do Aluno -----
 //  Nome: Everton Luís Nascimento Oliveira
-//  email: evertonlno97@gmail.com
 //  Semestre: 2º
 
 
