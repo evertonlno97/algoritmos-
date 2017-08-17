@@ -2,13 +2,10 @@
 //  Salvador - BA
 //  Curso de Análise e Desenvolvimento de Sistemas http://ads.ifba.edu.br
 //  Disciplina: INF029 - Laboratório de Programação
-//  Professor: Renato Novais - renato@ifba.edu.br
-
 
 //  ----- Dados do Aluno -----
 //  Nome: Everton Luís Nascimento Oliveira
 //  email: evertonlno97@gmail.com
-//  Matrícula: 2016216005
 //  Semestre: 2º
 
 
